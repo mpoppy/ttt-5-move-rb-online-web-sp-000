@@ -14,5 +14,4 @@ end
 
 def move(board_array, position, char = "X")
   board_array[position] = char
-  
 end
